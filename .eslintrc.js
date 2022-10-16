@@ -4,11 +4,8 @@ module.exports = {
         'es2021': true
     },
     'extends': [
-        'eslint:recommended',
-        'plugin:react/recommended',
+        'standard',
         'prettier'
-    ],
-    'overrides': [
     ],
     'parserOptions': {
         'ecmaVersion': 'latest',
@@ -23,10 +20,6 @@ module.exports = {
         'indent': [
             'error',
             2
-        ],
-        'linebreak-style': [
-            'error',
-            'windows'
         ],
         'quotes': [
             'error',
