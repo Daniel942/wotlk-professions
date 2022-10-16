@@ -5,7 +5,8 @@ module.exports = {
     },
     'extends': [
         'eslint:recommended',
-        'plugin:react/recommended'
+        'plugin:react/recommended',
+        'prettier'
     ],
     'overrides': [
     ],
@@ -14,12 +15,14 @@ module.exports = {
         'sourceType': 'module'
     },
     'plugins': [
-        'react'
+        'react',
+        'react-hooks'
     ],
     'rules': {
+        'react-hooks/rules-of-hooks': 'error',
         'indent': [
             'error',
-            4
+            2
         ],
         'linebreak-style': [
             'error',
