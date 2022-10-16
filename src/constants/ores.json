@@ -1,0 +1,107 @@
+[
+  {
+    "id": "copper_ore",
+    "name": "Copper Ore",
+    "quality": "common",
+    "wowheadID": "2770",
+    "wowheadIcon": "inv_ore_copper_01"
+  },
+  {
+    "id": "tin_ore",
+    "name": "Tin Ore",
+    "quality": "common",
+    "wowheadID": "2771",
+    "wowheadIcon": "inv_ore_tin_01"
+  },
+  {
+    "id": "thorium_ore",
+    "name": "Thorium Ore",
+    "quality": "common",
+    "wowheadID": "10620",
+    "wowheadIcon": "inv_ore_thorium_02"
+  },
+  {
+    "id": "silver_ore",
+    "name": "Silver Ore",
+    "quality": "uncommon",
+    "wowheadID": "2775",
+    "wowheadIcon": "inv_stone_16"
+  },
+  {
+    "id": "truesilver_ore",
+    "name": "Truesilver Ore",
+    "quality": "uncommon",
+    "wowheadID": "7911",
+    "wowheadIcon": "inv_ore_truesilver_01"
+  },
+  {
+    "id": "khorium_ore",
+    "name": "Khorium Ore",
+    "quality": "uncommon",
+    "wowheadID": "23426",
+    "wowheadIcon": "inv_ore_khorium"
+  },
+  {
+    "id": "gold_ore",
+    "name": "Gold Ore",
+    "quality": "uncommon",
+    "wowheadID": "2776",
+    "wowheadIcon": "inv_ore_gold_01"
+  },
+  {
+    "id": "eternium_ore",
+    "name": "Eternium Ore",
+    "quality": "uncommon",
+    "wowheadID": "23427",
+    "wowheadIcon": "inv_ore_eternium"
+  },
+  {
+    "id": "adamantite_ore",
+    "name": "Adamantite Ore",
+    "quality": "common",
+    "wowheadID": "23425",
+    "wowheadIcon": "inv_ore_adamantium"
+  },
+  {
+    "id": "fel_iron_ore",
+    "name": "Fel Iron Ore",
+    "quality": "common",
+    "wowheadID": "23424",
+    "wowheadIcon": "inv_ore_feliron"
+  },
+  {
+    "id": "iron_ore",
+    "name": "Iron Ore",
+    "quality": "common",
+    "wowheadID": "2772",
+    "wowheadIcon": "inv_ore_iron_01"
+  },
+  {
+    "id": "mithril_ore",
+    "name": "Mithril Ore",
+    "quality": "common",
+    "wowheadID": "3858",
+    "wowheadIcon": "inv_ore_mithril_02"
+  },
+  {
+    "id": "cobalt_ore",
+    "name": "Cobalt Ore",
+    "quality": "common",
+    "wowheadID": "36909",
+    "wowheadIcon": "inv_ore_cobalt"
+  },
+  {
+    "id": "saronite_ore",
+    "name": "Saronite Ore",
+    "quality": "common",
+    "wowheadID": "36912",
+    "wowheadIcon": "inv_ore_saronite_01"
+  },
+  {
+    "id": "titanium_ore",
+    "name": "Titanium Ore",
+    "quality": "uncommon",
+    "wowheadID": "36910",
+    "wowheadIcon": "inv_ore_platinum_01"
+  }
+]
